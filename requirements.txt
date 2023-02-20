@@ -1,4 +1,4 @@
-pyrogram>=2.0.30
+pyrogram>=1.4.16
 git+https://github.com/subinps/pyrogram@inline-m
 tgcrypto
 pymongo[srv]==3.12.3
@@ -10,7 +10,6 @@ bs4
 imdbpy==2021.4.18
 aiofiles
 telegraph
-pyrogram
 youtube_search_python
 youtube_search
 ytthumb
